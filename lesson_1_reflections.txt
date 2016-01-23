@@ -1,0 +1,8 @@
+
+git diff ver1 ver2 shows ver2 as the new version
+I added stuff to .bashrc
+I tried to add vi as the git default editor
+
+https://www.udacity.com/course/viewer#!/c-ud775/l-3394248803/e-3449118607/m-3410149165 
+Or Udacity Git And GitHub 
+
