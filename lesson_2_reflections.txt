@@ -5,3 +5,10 @@ It creates a .git directory and starts keeping track of your commits.
 git diff compares working directory to staging area
 git diff --staged  compares staging area to the most recent commit
 
+I haven't figured out when to use branching.
+
+git checkout -b new_branch  creates a new branch and checks it out 
+
+git show fc2345  diffs a commit with its parent
+
+git merge --abort - might get me back to the start - we'll see 
