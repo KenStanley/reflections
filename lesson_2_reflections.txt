@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It creates a .git directory and starts keeping track of your commits.
 
+git diff compares working directory to staging area
+git diff --staged  compares staging area to the most recent commit
+
