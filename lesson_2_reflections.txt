@@ -12,3 +12,5 @@ git checkout -b new_branch  creates a new branch and checks it out
 git show fc2345  diffs a commit with its parent
 
 git merge --abort - might get me back to the start - we'll see 
+
+That failed, but this worked:  git reset --hard HEAD
