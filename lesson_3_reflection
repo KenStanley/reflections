@@ -1,1 +1,9 @@
 Whatever this is added in GitHub 
+
+git fetch creates origin/master on the local cpmputer 
+
+fast forward merge 
+pull requests on GitHub are a bit comfusing - It is asking someone else to do a merge of a new branch into the master branch
+
+I think that before you do a pull request, you have to create a branch in the forked version of the code. 
+
